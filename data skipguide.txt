@@ -40,14 +40,14 @@
 
 },
   "my_data":[
-    {"desc1":"description1 ser"},
-    {"desc2":"description2 ser"},
-    {"desc3":"description3 ser"},
-    {"desc4":"description4 ser"},
-    {"desc5":"description5 ser"},
-    {"desc6":"description5 ser"},
-    {"desc7":"description5 ser"},
-    {"descd":"description d ser"}
+    {"desc1":"Yellow Daddy, born Jonathan Anderson on July 12, 1948, in a small town in Mississippi, demonstrated a passion for music from an early age"},
+    {"desc2":"Growing up in a region steeped in blues and gospel traditions, he was exposed to a rich tapestry of sounds that would shape his musical journey"},
+    {"desc3":"Inspired by his family's love for music and the vibrant local scene, Yellow Daddy began honing his skills on the guitar and soon developed a unique style that blended blues, rock, and folk influences"},
+    {"desc4":"Yellow Daddy's breakthrough moment came in the late 1960s when he moved to Los Angeles to pursue a career in music"},
+    {"desc5":" His raw talent and distinctive sound quickly caught the attention of industry insiders, and he soon found himself signed to a major record label"},
+    {"desc6":"Yellow Reflections," released in 1970, garnered critical acclaim and marked the arrival of a true musical visionary."},
+    {"desc7":"What set Yellow Daddy apart from his contemporaries was his ability to fuse various genres seamlessly"},
+    {"descd":"His music encompassed elements of blues, folk, rock, and soul, creating a distinct sound that resonated with a wide range of audiences"}
   ]
 
 }
